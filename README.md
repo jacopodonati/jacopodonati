@@ -1,1 +1,1 @@
-Send pizza, pls
+Send pizza.
