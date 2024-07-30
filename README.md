@@ -6,8 +6,8 @@ Il mio attuale campo di ricerca è un'estetica della scarsità che per il moment
 
 Per qualsiasi contatto preferisco l'email. Il mio indirizzo lo trovi facilmente nel mio sito[^3].
 
-[^1:] Sì, come puoi vedere qui a lato sono di Bologna.
+[^1]: Sì, come puoi vedere qui a lato sono di Bologna.
 
-[^2:] Inneficientisimo in termini di produzione, non di utilizzo.  Per questo preferisco C a JS a Python.
+[^2]: Inneficientisimo in termini di produzione, non di utilizzo.  Per questo preferisco C a JS a Python.
 
-[^3:] O, per pigrizia, puoi considerare `nome@nomecognome.it`.
+[^3]: O, per pigrizia, puoi considerare `nome@nomecognome.it`.
