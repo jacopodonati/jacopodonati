@@ -1,4 +1,4 @@
-# Hello, weirdo
+# Hello, weirdo. 🦕
 
 My name is Jacopo Donati and I'm a mix between a programmer and a philosopher.  Also, I'm Italian, and that's why you'll probably won't understand what I'll write next.  But, hey, we have translators now, so we just might use them.
 
