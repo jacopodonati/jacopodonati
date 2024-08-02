@@ -8,6 +8,6 @@ Per qualsiasi contatto preferisco l'email. Il mio indirizzo lo trovi facilmente 
 
 [^1]: Sì, come puoi vedere qui a lato sono di Bologna.
 
-[^2]: Inneficientisimo in termini di produzione, non di utilizzo.  Per questo preferisco C a JS a Python.
+[^2]: Inneficientisimo in termini di produzione, non di utilizzo.  Per questo preferisco C a JS a Python, e sono convinto che una risposta sia il permacomputing.
 
 [^3]: O, per pigrizia, puoi considerare `nome@nomecognome.it`.
